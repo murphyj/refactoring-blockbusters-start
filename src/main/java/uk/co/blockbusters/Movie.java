@@ -6,7 +6,7 @@ public class Movie {
     public static final int REGULAR = 0;
     public static final int NEW_RELEASE = 1;
 
-    prvate String title;
+    private String title;
     private int priceCode;
 
     public Movie (String title, int priceCode) {
