@@ -17,13 +17,15 @@ systemProp.java.net.preferIPv4Stack=true.
 systemProp.socksProxyHost=
 ```
 
+
 Once this is done:
 
-# Go to the directory
-# Type './gradlew test'
+* Go to the directory
+* Type './gradlew test'
 
 
 If you want to generate a IntelliJ project file:
+
 
 ```
 ./gradlew idea 
