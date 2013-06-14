@@ -13,7 +13,7 @@ systemProp.https.proxyPort=80
 systemProp.https.nonProxyHosts=
 
 systemProp.javax.net.ssl.trustStorePassword=changeit
-systemProp.java.net.preferIPv4Stack=true.
+systemProp.java.net.preferIPv4Stack=true
 systemProp.socksProxyHost=
 ```
 
