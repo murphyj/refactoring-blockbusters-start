@@ -9,7 +9,7 @@ systemProp.http.proxyPort=
 systemProp.http.nonProxyHosts=
 
 systemProp.https.proxyHost=
-systemProp.https.proxyPort=80
+systemProp.https.proxyPort=
 systemProp.https.nonProxyHosts=
 
 systemProp.javax.net.ssl.trustStorePassword=changeit
